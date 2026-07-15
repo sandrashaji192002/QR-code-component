@@ -9,7 +9,7 @@ body {
 }
 .main-container {
   width: 300px;
-  border: 1px solid grey;
+  border: none;
   border-radius: 15px;
   background-color: hsl(0, 0%, 100%);
   font-family: 'Outfit', sans-serif;
